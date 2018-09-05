@@ -1,3 +1,5 @@
+You can see the website here: https://muhammadkamil66.github.io/color-guessing-game/
+
 # The-Great-RGB-guessing-game
 The Great RGB Guessing Game is a color to pick game from the provided RGB specter
 <br>
